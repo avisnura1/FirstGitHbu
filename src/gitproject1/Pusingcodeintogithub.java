@@ -6,6 +6,10 @@ public class Pusingcodeintogithub {
 	{System.out.println("changes in dev");
 		
 	}
+	public void  changesdev1()
+	{System.out.println("changes in dev1");
+		
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
